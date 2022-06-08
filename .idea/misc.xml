@@ -7,6 +7,10 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
+          <option name="caretOffset" value="129" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/.gitpod.yml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
           <option name="caretOffset" value="0" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/package.json" />
         </OpenedFileInfo>
